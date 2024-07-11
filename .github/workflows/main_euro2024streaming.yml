@@ -53,4 +53,4 @@ jobs:
           app-name: 'Euro2024Streaming'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F5B4C32C23B4966B8578F5DF60ECF6D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8383B8E7BABB4323A66C5915D64ADE34 }}
